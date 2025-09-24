@@ -61,8 +61,12 @@ jobs:
           node --version
           npm --version
           ls -la
-      - name: Build with Next.js
-        run: npm run build
+      - name: Build and export Next.js
+        run: npm run export
+      - name: Verify out directory
+        run: |
+          ls -la
+          ls -la ./out || echo "out directory not found"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
