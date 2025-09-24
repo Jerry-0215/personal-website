@@ -126,3 +126,4 @@ This template is from ThemeForest. Please check the original license terms.
 - Clear `.next` folder and restart dev server
 - Check browser console for JavaScript errors
 - Verify all image assets are in correct locations
+# Test deployment
