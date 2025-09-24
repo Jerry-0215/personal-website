@@ -4,7 +4,8 @@ const nextConfig = {
   swcMinify: true,
   output: 'export',
   trailingSlash: true,
-  assetPrefix: '',
+  basePath: '/personal-website',
+  assetPrefix: '/personal-website',
   images: {
     loader: 'custom',
     loaderFile: './src/utils/imageLoader.js',
