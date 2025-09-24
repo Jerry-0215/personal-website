@@ -127,3 +127,4 @@ This template is from ThemeForest. Please check the original license terms.
 - Check browser console for JavaScript errors
 - Verify all image assets are in correct locations
 # Test deployment
+# Force workflow trigger
