@@ -505,7 +505,7 @@ const ProjectDetails = () => {
         {/* Close Work Icon Starts */}
         <img
           alt="close"
-          src="images/close-button.png"
+          src="images/closeButtonNew.png"
           className="control-button bl-icon-close"
           onClick={() => {
             showProjectFunction();
