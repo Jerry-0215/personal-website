@@ -298,12 +298,12 @@ const AboutUs = ({ dark }) => {
           {/* Personal Informations Starts */}
           <div className="row">
             {/* Picture Starts */}
-            <div className="col s12 m4 profile-picture show-on-medium-and-down section-padding">
-              <img
-                src="images/jerryMTX.jpg"
-                className="responsive-img my-picture"
-                alt="My Photo"
-              />
+            <div className="col s12 m4 profile-picture section-padding">
+                <img
+                  src="/images/jerryMTX.jpg"
+                  alt="My Photo"
+                  className="responsive-img my-picture"
+                />
             </div>
             {/* Picture Ends */}
             <div className="col s12 m8 l12 xl12 personal-info section-padding">
@@ -312,45 +312,39 @@ const AboutUs = ({ dark }) => {
               </h6>
               <div className="col m12 l12 xl9 p-none">
                 <p className="second-font">
-                  {`I'm`} a Freelance Web Designer &amp; Developer based in
-                  Moscow, Russia, I have serious passion for UI effects,
-                  animations and creating intuitive, with over a decade of
-                  experience.
+                  {`I'm`} a highschool student in Toronto, Canada, my passions span across STEM, music, sports, 
+                  and many more - check out more about me on this website!
                 </p>
               </div>
               <div className="col s12 m12 l6 p-none">
                 <ul className="second-font list-1">
                   <li>
                     <span className="font-weight-700">First Name: </span>
-                    Mark
+                    Jerry
+                  </li>
+                  <li>
+                    <span className="font-weight-700">Legal First Name: </span>
+                    Boyuan
                   </li>
                   <li>
                     <span className="font-weight-700">Last Name: </span>
-                    Smith
+                    Yao
                   </li>
                   <li>
-                    <span className="font-weight-700">Date of birth: </span>
-                    21 june 1990{" "}
+                    <span className="font-weight-700">Pronouns: </span>
+                    He/Him {""}
                   </li>
                   <li>
-                    <span className="font-weight-700">Nationality: </span>
-                    Russian
-                  </li>
-                  <li>
-                    <span className="font-weight-700">Freelance: </span>
-                    Available
+                    <span className="font-weight-700">Year of Highschool Graduation: </span>
+                    2026
                   </li>
                 </ul>
               </div>
               <div className="col s12 m12 l6 p-none">
                 <ul className="second-font list-2">
                   <li>
-                    <span className="font-weight-700">Phone: </span>+34 21 18 40
-                    10
-                  </li>
-                  <li>
-                    <span className="font-weight-700">Address: </span>
-                    Moscow, Russia
+                    <span className="font-weight-700">School: </span>
+                    Crescent School (Toronto, Canada)
                   </li>
                   <li>
                     <span className="font-weight-700">Email: </span>
@@ -358,11 +352,7 @@ const AboutUs = ({ dark }) => {
                   </li>
                   <li>
                     <span className="font-weight-700">Spoken Langages: </span>
-                    French - German
-                  </li>
-                  <li>
-                    <span className="font-weight-700">Skype: </span>
-                    mark.smith
+                    English, Chinese, French
                   </li>
                 </ul>
               </div>
