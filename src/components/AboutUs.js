@@ -136,7 +136,7 @@ const Skills = () => (
           <div className="col s6">
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">html</h6>
+              <h6 className="uppercase">Java</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
@@ -146,7 +146,7 @@ const Skills = () => (
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">javascript</h6>
+              <h6 className="uppercase">Python</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
@@ -156,40 +156,40 @@ const Skills = () => (
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">css</h6>
+              <h6 className="uppercase">JavaScript</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star-half-empty" />
-              </p>
-            </div>
-            {/* Single Skills Ends */}
-            {/* Single Skills Starts */}
-            <div className="resume-content">
-              <h6 className="uppercase">php</h6>
-              <p>
-                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" /> <i className="fa fa-star-o" />{" "}
                 <i className="fa fa-star-o" />
               </p>
             </div>
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">jquery</h6>
+              <h6 className="uppercase">C++</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" />
+                <i className="fa fa-star" /> <i className="fa fa-star-half-empty" />{" "}
+                <i className="fa fa-star-o" />
               </p>
             </div>
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">angular js</h6>
+              <h6 className="uppercase">Logic Pro</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" /> <i className="fa fa-star-o" />{" "}
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star-half-empty" />
+              </p>
+            </div>
+            {/* Single Skills Ends */}
+            {/* Single Skills Starts */}
+            <div className="resume-content">
+              <h6 className="uppercase">Final Cut Pro</h6>
+              <p>
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star-o" />
               </p>
             </div>
@@ -200,7 +200,7 @@ const Skills = () => (
           <div className="col s6">
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">wordpress</h6>
+              <h6 className="uppercase">Piano</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
@@ -210,18 +210,7 @@ const Skills = () => (
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">joomla</h6>
-              <p>
-                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" />{" "}
-                <i className="fa fa-star-half-empty" />{" "}
-                <i className="fa fa-star-o" />
-              </p>
-            </div>
-            {/* Single Skills Ends */}
-            {/* Single Skills Starts */}
-            <div className="resume-content">
-              <h6 className="uppercase">magento</h6>
+              <h6 className="uppercase">Alto Sax</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
@@ -231,7 +220,27 @@ const Skills = () => (
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">drupal</h6>
+              <h6 className="uppercase">Photography</h6>
+              <p>
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star-o" />
+              </p>
+            </div>
+            {/* Single Skills Ends */}
+            {/* Single Skills Starts */}
+            <div className="resume-content">
+              <h6 className="uppercase">Presentation</h6>
+              <p>
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
+                <i className="fa fa-star-half-empty" />
+              </p>
+            </div>
+            {/* Single Skills Ends */}
+            {/* Single Skills Starts */}
+            <div className="resume-content">
+              <h6 className="uppercase">Report Writing</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
@@ -241,21 +250,10 @@ const Skills = () => (
             {/* Single Skills Ends */}
             {/* Single Skills Starts */}
             <div className="resume-content">
-              <h6 className="uppercase">Adobe Photoshop</h6>
+              <h6 className="uppercase">Research</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star-o" />
-              </p>
-            </div>
-            {/* Single Skills Ends */}
-            {/* Single Skills Starts */}
-            <div className="resume-content">
-              <h6 className="uppercase">Adobe illustrator</h6>
-              <p>
-                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" />{" "}
-                <i className="fa fa-star-half-empty" />{" "}
                 <i className="fa fa-star-o" />
               </p>
             </div>
@@ -348,7 +346,7 @@ const AboutUs = ({ dark }) => {
                   </li>
                   <li>
                     <span className="font-weight-700">Email: </span>
-                    you@yourwebsite.com
+                    yaoboyuan0215@gmail.com
                   </li>
                   <li>
                     <span className="font-weight-700">Spoken Langages: </span>
@@ -356,14 +354,14 @@ const AboutUs = ({ dark }) => {
                   </li>
                 </ul>
               </div>
-              <a href="#" className="btn font-weight-700">
+              {/*<a href="#" className="btn font-weight-700">
                 Download Resume <i className="fa fa-file-pdf-o" />
               </a>
               <Link href={`/blog-${dark ? "dark" : "light"}`}>
                 <a className="btn btn-blog font-weight-700">
                   My Blog <i className="fa fa-edit" />
                 </a>
-              </Link>
+              </Link>*/}
             </div>
           </div>
           {/* Personal Informations Ends */}
